@@ -7,7 +7,7 @@
 body {
     margin-top: 20px;
     text-align: center;
-    background-image: url("../imgs/old_map.png");
+    background-image: url("./imgs/old_map.png");
 }
 
 #page {
@@ -25,7 +25,7 @@ header {
 }
 
 header h1 {
-    background-image: url("../imgs/pfp.png");
+    background-image: url("./imgs/pfp.png");
     background-repeat: no-repeat;
     background-position: left center, 25px center;
     background-size: 80px auto, auto;
@@ -37,7 +37,7 @@ nav {
     font-size: 1.4em;
     color: silver;
     text-align: center;
-    background-image: url("../imgs/carbon.jpg");
+    background-image: url("./imgs/carbon.jpg");
 }
 
 nav ul li {
@@ -49,19 +49,19 @@ nav ul li {
 }
 
 nav ul li#estudios {
-    background-image: url("../imgs/conocimientos.png");
+    background-image: url("./imgs/conocimientos.png");
     background-repeat: no-repeat;
     background-position: center 10px;
 }
 
 nav ul li#conocimientos {
-    background-image: url("../imgs/estudios.png");
+    background-image: url("./imgs/estudios.png");
     background-repeat: no-repeat;
     background-position: center 10px;
 }
 
 nav ul li#contacto {
-    background-image: url("../imgs/contacto.png");
+    background-image: url("./imgs/contacto.png");
     background-repeat: no-repeat;
     background-position: center 10px;
 }
@@ -69,7 +69,7 @@ nav ul li#contacto {
 section {
     font-family: Verdana, sans-serif;
     font-size: 0.8em;
-    background-image: url("../imgs/bg2.jpg");
+    background-image: url("./imgs/bg2.jpg");
     width: 100%;
     display: table;
 }
